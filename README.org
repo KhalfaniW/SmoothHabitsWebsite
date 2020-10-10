@@ -1,6 +1,6 @@
 * SmoothHabitsWebsite
 
 ** Current Projects
-**** Smooth Link
+**** Smooth Go
  
-      An that makes it easy to build habits that get you off distracting sites and moves you to websites that create value.
+      An extenion that makes it easy to build habits that get you off distracting sites and moves you to websites that create value.
