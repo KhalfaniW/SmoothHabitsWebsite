@@ -1,0 +1,6 @@
+* SmoothHabitsWebsite
+
+** Current Projects
+**** Smooth Link
+ 
+      An that makes it easy to build habits that get you off distracting sites and moves you to websites that create value.
